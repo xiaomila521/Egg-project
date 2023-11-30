@@ -1,10 +1,10 @@
 # Egg-project-template
 
 #### 介绍
-这是一个Egg.js+Vue的简易后台项目模板。功能包括：JWT校验，密码加盐，统一异常处理，请求参数校验，mongoose,模板示例用户管理，增删改查功能，实例路由实现RESTful风格，
+这是一个Egg+Vue+MongoDB的全栈简易后台项目学习示例。功能包括：JWT校验，密码加盐，统一异常处理，请求参数校验，mongoose,模板示例用户管理，增删改查功能，实例路由实现RESTful风格。
 前端：VUE2全家桶+element-ui+axios+js-cookie...
 后端：Egg.js+mongoose+jwt...
-![输入图片说明](3329a7dbe30179cf9ccd33111d121b4.png)
+![输入图片说明](Egg_project/Egg-admin-vue/src/assets/img/3329a7dbe30179cf9ccd33111d121b4.png)
 
 #### 软件架构
 1. 服务端：Node+MongoDB@6...
